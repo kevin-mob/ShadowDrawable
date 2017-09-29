@@ -1,5 +1,5 @@
-# floatingeditor
-A quick reply to the android library floating editor
+# Shadow Drawable
+A rounded rectangle drawable which also includes a shadow around.
 
 [![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
