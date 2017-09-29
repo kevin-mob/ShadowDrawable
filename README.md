@@ -3,18 +3,19 @@ A rounded rectangle drawable which also includes a shadow around.
 
 [![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
- Android 卡片阴影背景图
+ Android 卡片阴影背景图. Android card shadow background drawable.
 
-## 预览
+## 预览效果 Preview effect
 ![](demo.gif)
 
-## 1.功能
+## 1.功能 Features
  * CardView阴影效果不能很好的满足设计师的需求，所以对support v7包中的RoundRectDrawableWithShadow文件做了一些修改，现在可以更灵活地改变卡片的阴影效果。
+ 
+CardView shadow effect can not be very good to meet the needs of designers, so support v7 package RoundRectDrawableWithShadow file made some changes, and now can be more flexible to change the shadow effect of View.
 
 
-## 2.代码演示 也可参考demo中的代码
+## 2.使用 也可参考demo中的代码  Usage, See sample for more details.
 
-### 调用
 ```java
 
     View  hello = findViewById(R.id.tv_hello);
